@@ -9,7 +9,7 @@ const INMUTABLE_CACHE = 'inmutable-v-1';
 //TODO LO NECESARIO PARA QUE MI APP FUNCIONE (CACHE DYNAMICO)
 const APP_SHELL = [
      //INDEX************************
-    '/',
+    //'/',
     'index.html',
     'assets/img/favicon.png',
     'assets/img/apple-touch-icon.png',
@@ -41,7 +41,7 @@ const APP_SHELL = [
 //TODO LO NECESARIO PARA QUE MI APP FUNCIONE (CACHE INMUTABLE)
 const APP_SHELL_INMUTABLE =[
      //INDEX******************************************
-     '/',
+    // '/',
     'https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i',
     'assets/vendor/bootstrap/css/bootstrap.min.css',
     'assets/vendor/icofont/icofont.min.css',
