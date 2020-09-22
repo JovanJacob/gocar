@@ -11,6 +11,12 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
+
+  overscroll-behavior-y: contain;
+
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
 }
 
 a {
